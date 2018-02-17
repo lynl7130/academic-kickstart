@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -231,6 +231,12 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/pennekampster"
 
+ [[params.social]]
+    icon = "orcid"
+    icon_pack = "fa"
+    link = "http://orcid.org/0000-0003-0679-1045"
+
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -271,10 +277,10 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
