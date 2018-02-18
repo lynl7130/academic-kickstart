@@ -8,10 +8,10 @@ title = "Recent & Upcoming Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 4
 
 # Number of talks to list.
-count = 8
+count = 5
 
 # List format.
 #   0 = Simple
