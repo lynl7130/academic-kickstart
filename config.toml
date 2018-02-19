@@ -55,10 +55,10 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Zurich", url = "www.uzh.ch" } ]
+  organizations = [ { name = "University of Zurich", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "frank_small.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "frank.pennekamp@ieu.uzh.ch"
   address = "Universität Zürich, Winterthurerstrasse 190, Zurich, Switzerland"
   phone = " +41 (0)44 635 47 76"
