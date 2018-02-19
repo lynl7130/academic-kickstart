@@ -1,5 +1,5 @@
 +++
-title = "ReScience2016"
+title = "[Re] Chaos in a long-term experiment with a plankton community"
 date = 2016-02-18T10:19:19+01:00
 draft = false
 
