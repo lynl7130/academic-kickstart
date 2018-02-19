@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://peerj.com/preprints/26540/"
 url_code = ""
 url_dataset = ""
 url_project = ""

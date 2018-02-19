@@ -42,8 +42,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "pdf/Altermatt_et_al._2015.pdf"
+url_preprint = "https://www.biorxiv.org/content/early/2017/11/02/213256"
 url_code = ""
 url_dataset = ""
 url_project = ""

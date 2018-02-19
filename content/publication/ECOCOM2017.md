@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/Pennekamp_et_al._2016_ECO_COM.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

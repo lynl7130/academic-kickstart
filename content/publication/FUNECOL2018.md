@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/Griffiths_et_al_2017.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

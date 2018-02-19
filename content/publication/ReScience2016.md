@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/Petchey_et_al.2016.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
