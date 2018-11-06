@@ -1,6 +1,6 @@
 +++
 title = "Bottom-up and top-down control of dispersal across major organismal groups"
-date = 2018-11-6T10:31:42+01:00
+date = 2018-11-06T10:31:42+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
