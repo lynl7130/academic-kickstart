@@ -1,6 +1,6 @@
 +++
-title = "Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment"
-date = 2018-02-18T10:31:42+01:00
+title = "Bottom-up and top-down control of dispersal across major organismal groups"
+date = 2018-11-6T10:31:42+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = ["Emanuel A. Fronhofer", "Delphine Legrand", "Florian Altermatt", "Arm
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "biorxiv"
+publication = "Nature Ecology & Evolution"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://www.biorxiv.org/content/early/2017/11/02/213256"
+url_preprint = "https://www.nature.com/articles/s41559-018-0686-0#article-info"
 url_code = ""
 url_dataset = ""
 url_project = ""
