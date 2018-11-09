@@ -1,23 +1,23 @@
 +++
-title = "Next talk near you?"
-date = 2018-01-31T17:23:25+01:00  # Schedule page publish date.
+title = "From high-throughput community ecology to ecological predictability"
+date = 2018-11-08T17:23:25+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-02-18T17:23:25+01:00
-time_end = 2018-02-18T17:23:25+01:00
+time_start = 2018-11-20T11:15:00+01:00
+time_end = 2018-11-20T12:15:00+01:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Your seminar"
-event_url = ""
+event = "Université de Fribourg"
+event_url = "https://www3.unifr.ch/bio/en/info/agenda/?eventid=3657"
 
 # Location of event.
-location = "Near you"
+location = "PER 04 0.110, Rue Albert-Gockel 3, Fribourg"
 
 # Is this a selected talk? (true/false)
 selected = false
