@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Zurich", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Frank_small3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "frank.pennekamp@ieu.uzh.ch"
   address = "Universität Zürich, Winterthurerstrasse 190, Zurich, Switzerland"
   phone = " +41 (0)44 635 47 76"
@@ -218,7 +218,7 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/pennekampster"
 
   [[params.social]]
@@ -228,12 +228,12 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/pennekampster"
 
  [[params.social]]
     icon = "orcid"
-    icon_pack = "fa"
+    icon_pack = "ai"
     link = "http://orcid.org/0000-0003-0679-1045"
 
 
