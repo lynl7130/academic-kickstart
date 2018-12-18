@@ -1,6 +1,6 @@
 +++
 title = "The intrinsic predictability of ecological time series and its potential to guide forecasting"
-date = "2018-12-01"
+date = "2018-01-01"
 authors = ["Frank Pennekamp", "Alison Iles", "Joshua Garland", "Georgina Brennan", "Ulrich Brose", "Ursula Gaedke", "Ute Jacob", "Pavel Kratina", "Blake Matthews", "Stephan Munch", "Mark Novak", "Gian Marco Palamara", "Bjorn Rall", "Benjamin Rosenbaum", "Andrea Tabi", "Colette Ward", "Richard Williams", "Hao Ye", "Owen Petchey"]
 publication_types = ["2"]
 publication = "Ecological Monographs"
