@@ -1,5 +1,5 @@
 +++
-title = "The interplay between movement, dispersal and morphology in Tetrahymena ciliates"
+title = "The interplay between movement, dispersal and morphology in \textitTetrahymena ciliates"
 date = "2018-01-01"
 authors = ["Frank Pennekamp", "Jean Clobert", "Nicolas Schtickzelle"]
 publication_types = ["2"]

@@ -1,5 +1,5 @@
 +++
-title = "The larval ecology of the butterfly Euphydryas desfontainii (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality"
+title = "The larval ecology of the butterfly \textitEuphydryas desfontainii (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality"
 date = "2013-01-01"
 authors = ["Frank Pennekamp", "Eva Monteiro", "Thomas Schmitt"]
 publication_types = ["2"]

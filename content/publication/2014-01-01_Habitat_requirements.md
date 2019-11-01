@@ -1,5 +1,5 @@
 +++
-title = "Habitat requirements and dispersal ability of the Spanish Fritillary (Euphydryas desfontainii) in southern Portugal: evidence-based conservation suggestions for an endangered taxon"
+title = "Habitat requirements and dispersal ability of the Spanish Fritillary (\textitEuphydryas desfontainii) in southern Portugal: evidence-based conservation suggestions for an endangered taxon"
 date = "2014-01-01"
 authors = ["Frank Pennekamp", "Patricia Garcia-Pereira", "Thomas Schmitt"]
 publication_types = ["2"]

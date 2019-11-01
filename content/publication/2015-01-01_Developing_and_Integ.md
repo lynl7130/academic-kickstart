@@ -1,5 +1,5 @@
 +++
-title = "Developing and Integrating Advanced Movement Features Improves Automated Classification of Ciliate Species"
+title = "Developing and integrating advanced movement features improves automated classification of ciliate species"
 date = "2015-01-01"
 authors = ["Ali Soleymani", "Frank Pennekamp", "Owen L. Petchey", "Robert Weibel"]
 publication_types = ["2"]

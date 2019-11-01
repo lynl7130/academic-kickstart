@@ -1,5 +1,5 @@
 +++
-title = "Dispersal propensity in Tetrahymena thermophila ciliates—a reaction norm perspective"
+title = "Dispersal propensity in \textitTetrahymena thermophila ciliates—a reaction norm perspective"
 date = "2014-01-01"
 authors = ["Frank Pennekamp", "Katherine A. Mitchell", "Alexis Chaine", "Nicolas Schtickzelle"]
 publication_types = ["2"]
