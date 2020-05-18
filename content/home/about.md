@@ -11,6 +11,7 @@ weight = 1
 [interests]
   interests = [
     "Community ecology",
+    "Species interactions", 
     "Movement and dispersal",
     "Population dynamics"
   ]
@@ -30,8 +31,12 @@ weight = 1
 
 # Biography
 
-I am an (evolutionary) ecologist broadly interested in population and community dynamics. My background is in conservation biology, but for my PhD with [Nicolas Schtickzelle](https://www.nicolas-schtickzelle.net/), I have shifted to work on microbial model systems to address fundamental questions in ecology and evolutionary biology. My PhD was largely focused on the genetic and environmental drivers of movement and dispersal of _Tetrahymena thermophila_ ciliates.
+I am an (evolutionary) ecologist broadly interested in how populations and communities respond to global change.  I am currently a [group leader](https://www.ieu.uzh.ch/en/research/ecology/biotic_responses.html) in the Department of Evolutionary biology and Environmental Studies, University of Zurich 
 
-Since 2014, I am a postdoctoral researcher in the group of Owen Petchey at the University of Zurich, where I study the effects and predictability of temperature increase on community structure and composition. To understand the dynamics of communities, I conduct experiments with microbes and perform mathematical and statistical modeling.     
+My background is in conservation biology, but for my PhD with [Nicolas Schtickzelle](https://www.nicolas-schtickzelle.net/), I have shifted to work on microbial model systems to address fundamental questions in ecology and evolutionary biology. My PhD was largely focused on the genetic and environmental drivers of movement and dispersal of _Tetrahymena thermophila_ ciliates.
 
-I develop digital image and video-based techniques to automatically quantify individuals and their traits in the microbial model systems we use in our lab. 
+From 2014 to 2019, I worked as a postdoctoral researcher with Prof. Owen Petchey to understand the effects of warming on community structure and composition, as well ecological predictability.
+
+I work at the interface of experiments and theory: I mostly collect data on microbial model systems and perform mathematical and statistical modeling. In the past (and hopefully in the future) I will work with insects, a group I am particularly fond of!
+
+To guide my research, I develop open source software, for instance,  digital image and video-based techniques to automatically quantify individuals and their traits.
